@@ -76,7 +76,7 @@ body {
 }
 
 header{
-    background: url(../../img/header-hero\ -\ Copy.jpg) no-repeat;
+    background: url(/img/header-hero\ -\ Copy.jpg) no-repeat;
     background-size: cover;
     padding-bottom:100px;
     padding-top: 25px;
