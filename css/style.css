@@ -398,7 +398,7 @@ padding-left: 20px;
 /* ==============================================  Style of About==================================================== */
 
 .header2{
-    background: url(../../img/header-hero-1.jpg) no-repeat;
+    background: url(../img/header-hero-1.jpg) no-repeat;
     background-size: cover;
     padding-bottom:170px;
     padding-top: 25px;
@@ -553,7 +553,7 @@ padding-left: 20px;
 
 
 .header3{
-    background: url(../../img/services-hero.jpg) no-repeat;
+    background: url(../img/services-hero.jpg) no-repeat;
     background-size: cover;
     padding-bottom:180px;
     padding-top: 25px;
@@ -737,7 +737,7 @@ padding-left: 20px;
 /* =============================================== Style of Contact====================================================== */
 
 .header4{
-    background: url(../../img/contact-hero-1.jpg) no-repeat;
+    background: url(../img/contact-hero-1.jpg) no-repeat;
     background-size: cover;
     padding-bottom:180px;
     padding-top: 25px;
